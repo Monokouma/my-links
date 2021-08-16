@@ -1,0 +1,13 @@
+{
+    "name": "cyril/my-links",
+    "authors": [
+        {
+            "name": "seeren",
+            "email": "consultant@seeren.fr"
+        }
+    ],
+    "require": {
+      "ext-json": "*",
+      "ext-pdo": "*"
+    }
+}
